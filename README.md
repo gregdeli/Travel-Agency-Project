@@ -1,4 +1,4 @@
-# Descriprion
+# Description
 This repository contains a Travel Agency Administration program that was implemented in Java using the NetBeans IDE, to help with the GUI, and the JDK 15 library for interaction with a MySQL database.
 
 # Getting Started
